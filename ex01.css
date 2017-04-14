@@ -1,0 +1,16 @@
+body{
+		font-size:16px
+	}
+ul{
+	font-size:12px;
+	color:blue;	
+	}
+#green{
+		color:green;
+		}
+.green{
+		color:green;
+	}
+ul li a{
+		color:black;
+		}
